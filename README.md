@@ -6,8 +6,7 @@
   <img align="left" alt="baotrungnguyen's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-<br />  
-
+<br />
 
 **Languages and Tools:**
 
