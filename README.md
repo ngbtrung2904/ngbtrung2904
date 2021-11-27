@@ -1,4 +1,5 @@
 ### Happy to see you here! 👋
+<img align="right" alt="GIF" src="https://github.com/ngbtrung2904/ngbtrung2904/blob/main/imgs/giphy.gif" width="240" height="240" />
 <a href="https://www.linkedin.com/in/nguyenbao-trung-7a6148131/">
   <img align="left" alt="Nguyen Bao Trung | Linkedin" width="22px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/linkedin.svg" />
 </a>
@@ -18,7 +19,6 @@
 
 - 🔭 I’m currently working on machine vision
 - 🌱 I’m currently learning python
-    <img align="right" alt="GIF" src="https://github.com/ngbtrung2904/ngbtrung2904/blob/main/imgs/giphy.gif" width="240" height="240" />
 <!--
 **ngbtrung2904/ngbtrung2904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
