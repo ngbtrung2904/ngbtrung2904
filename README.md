@@ -6,24 +6,19 @@
   <img align="left" alt="baotrungnguyen's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-
 <br />
 
-I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community.
-
 **Languages and Tools:**  
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
-<img align="right" alt="GIF" src="https://github.com/ngbtrung2904/ngbtrung2904/blob/main/imgs/giphy.gif" width="500" height="320" />
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 
 - 🔭 I’m currently working on machine vision
 - 🌱 I’m currently learning python
-
+    <img align="right" alt="GIF" src="https://github.com/ngbtrung2904/ngbtrung2904/blob/main/imgs/giphy.gif" width="240" height="240" />
 <!--
 **ngbtrung2904/ngbtrung2904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
