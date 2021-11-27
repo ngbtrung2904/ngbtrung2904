@@ -19,6 +19,8 @@
 
 - 🔭 I’m currently working on machine vision
 - 🌱 I’m currently learning python
+
+![ngbtrung2904's github stats](https://github-readme-stats.vercel.app/api?username=ngbtrung2904&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER)
 <!--
 **ngbtrung2904/ngbtrung2904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
