@@ -5,7 +5,9 @@
 <a href="https://open.spotify.com/user/1b642rq359637vmis77q01yq9">
   <img align="left" alt="baotrungnguyen's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+
 <br />  
+
 
 **Languages and Tools:**
 
