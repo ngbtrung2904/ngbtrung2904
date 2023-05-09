@@ -3,9 +3,6 @@
 <a href="https://www.linkedin.com/in/nguyenbao-trung-7a6148131/">
   <img align="left" alt="Nguyen Bao Trung | Linkedin" width="22px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/1b642rq359637vmis77q01yq9">
-  <img align="left" alt="baotrungnguyen's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 <br />
 
