@@ -1,7 +1,7 @@
 ### Happy to see you here! 👋
 <img align="right" alt="GIF" src="https://github.com/ngbtrung2904/ngbtrung2904/blob/main/imgs/giphy.gif" width="240" height="240" />
 <a href="https://www.linkedin.com/in/nguyenbao-trung-7a6148131/">
-  <img align="left" alt="Nguyen Bao Trung | Linkedin" width="22px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/linkedin.svg" />
+  <img align="left" alt="Nguyen Bao Trung | Linkedin" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 
 <br />
